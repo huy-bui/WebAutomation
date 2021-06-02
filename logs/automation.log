@@ -1,0 +1,11 @@
+05-31-2021 00:27:40[INFO ] - [pages.AdvertisementPage / clickToCloseAd] - Click X button to close the advertisement
+05-31-2021 00:27:42[INFO ] - [pages.HomePage / inputSearch] - Input text to search...
+05-31-2021 00:27:42[INFO ] - [pages.HomePage / clickSearchButton] - Click Search button
+05-31-2021 00:27:47[INFO ] - [pages.ProductsPage / clickToCloseAdPopUp] - Click X button to close the pop up
+05-31-2021 00:27:53[INFO ] - [pages.ProductsPage / getFirstItemName] - Get the name of the first product
+05-31-2021 00:27:54[INFO ] - [pages.ProductsPage / selectFirstItem] - Click on the first item in the products list
+05-31-2021 00:27:56[INFO ] - [pages.ProductDetailPage / clickBuyNowButton] - Click Thanh Toan Ngay button
+05-31-2021 00:27:57[INFO ] - [pages.CartPage / clickPayButton] - Click Thanh Toan button
+05-31-2021 00:27:59[INFO ] - [pages.LoginPage / isLoginWithFBButtonDisplayed] - Verify the Log in With Facebook is displayed or not
+05-31-2021 00:27:59[INFO ] - [pages.LoginPage / isLoginWithGoogleButtonDisplayed] - Verify the Log in With Google is displayed or not
+05-31-2021 00:27:59[INFO ] - [pages.LoginPage / isLoginWithPhoneNumberDisplayed] - Verify the Log in With Phone Number is displayed or not
