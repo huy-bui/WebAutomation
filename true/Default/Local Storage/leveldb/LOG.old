@@ -1,0 +1,5 @@
+2021/06/07-15:16:23.520 3003 Reusing MANIFEST /Users/bmh/Documents/WebAutomation/true/Default/Local Storage/leveldb/MANIFEST-000001
+2021/06/07-15:16:23.521 3003 Recovering log #7
+2021/06/07-15:16:23.522 3003 Level-0 table #10: started
+2021/06/07-15:16:23.535 3003 Level-0 table #10: 10566 bytes OK
+2021/06/07-15:16:23.550 3003 Delete type=0 #7
